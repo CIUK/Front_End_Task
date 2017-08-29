@@ -7,6 +7,7 @@ Use http://www.splashbase.co/api/v1/images/search?query=forest api to search for
 - https://github.com/snabbdom/snabbdom
 - https://github.com/lodash/lodash
 - Vanila JS (Preferred ES6)
+- Fetch for api requests
 
 ### JS libraries do not use:
 
