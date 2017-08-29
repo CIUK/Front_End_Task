@@ -12,3 +12,10 @@ Use http://www.splashbase.co/api/v1/images/search?query=forest api to search for
 ### JS libraries do not use:
 
 - JQuery (or similar library)
+
+### Setup
+
+- git clone http://git.dev.careerinteractive.org/ernest/Front_End_Task.git
+- cd Front_End_Task
+- npm install -g live-server
+- live-server
