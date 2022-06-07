@@ -1,6 +1,6 @@
 ## Frontend task
 
-Use http://www.splashbase.co/api/v1/images/search?query=forest api to search for images display thumbnails and show image in modal than click on thumbnails.
+Use http://www.splashbase.co/api/v1/images/search?query=forest api to search for images, display thumbnails and show image in modal when clicked on thumbnails.
 
 ### JS libraries to use:
 
